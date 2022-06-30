@@ -2,7 +2,7 @@
  
  ## setup project 
  ```
- bin/console bolt:setup
+ php bin/console bolt:setup
  ```
  
  ## start server
